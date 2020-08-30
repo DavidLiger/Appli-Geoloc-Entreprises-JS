@@ -7,3 +7,11 @@ Ici une succession de zoom et de marqueurs permettent de récupérer des listes 
 
 Une interface permet aux directeurs d’agences de prévoir un objectif à réaliser avec chacune de ces entreprises 
 et permet à la hiérarchie de contrôler la réalisation de ces objectifs.
+
+- zoom sur la région Pays-de-Loire -
+
+- sélection de l’agence de Segré -
+
+- liste des entreprises rattachées à Segré -
+
+- fiche détaillée d’une entreprise -
