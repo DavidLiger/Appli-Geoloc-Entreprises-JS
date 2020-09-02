@@ -1,25 +1,25 @@
 # Appli-Geoloc-Entreprises-JS
 Web App that geolocalises future enterprises customers
 
-Démonstration vidéo de l'application : https://youtu.be/J0yQH7b37Fs
+Video demonstration of the application : https://youtu.be/J0yQH7b37Fs
 
 ![alt text](https://github.com/DavidLiger/Appli-Geoloc-Entreprises-JS/blob/master/images/page-accueil.png)
 
-Cette application utilise « Leaflet » et « Mapbox » des API permettant d’afficher et d’interagir avec une carte. 
-Ici une succession de zoom et de marqueurs permettent de récupérer des listes d’entreprises rattachées à chacune des 250 agences 
-« Actual Intérim » du territoire, depuis une table de plus de 100 000 lignes.
+This application uses "Leaflet" and "Mapbox" APIs to display and interact with a map. 
+Here a succession of zoom and markers allow you to retrieve lists of companies attached to each of the 250 agencies. 
+"Actual Intérim" of the territory, from a table of more than 100,000 lines.
 
-Une interface permet aux directeurs d’agences de prévoir un objectif à réaliser avec chacune de ces entreprises 
-et permet à la hiérarchie de contrôler la réalisation de ces objectifs.
+An interface enables branch managers to set a target to be achieved with each of these companies. 
+and allows management to monitor the achievement of these objectives.
 
 ![alt text](https://github.com/DavidLiger/Appli-Geoloc-Entreprises-JS/blob/master/images/zoom-1.png)
-- zoom sur la région Pays-de-Loire -
+- zoom on the Pays-de-Loire region 
 
 ![alt text](https://github.com/DavidLiger/Appli-Geoloc-Entreprises-JS/blob/master/images/zoom-2.png)
-- sélection de l’agence de Segré -
+- selection of the Segré agency -
 
 ![alt text](https://github.com/DavidLiger/Appli-Geoloc-Entreprises-JS/blob/master/images/zoom-3.png)
-- liste des entreprises rattachées à Segré -
+- list of companies attached to Segré -
 
 ![alt text](https://github.com/DavidLiger/Appli-Geoloc-Entreprises-JS/blob/master/images/zoom-4.png)
-- fiche détaillée d’une entreprise -
+- detailed company card -
