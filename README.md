@@ -3,7 +3,7 @@ Web App that geolocalises future enterprises customers
 
 Video demonstration of the application : https://youtu.be/J0yQH7b37Fs
 
-![alt text](https://github.com/DavidLiger/Appli-Geoloc-Entreprises-JS/blob/master/images/page-accueil.png)
+![alt text](https://github.com/DavidLiger/Appli-Geoloc-Entreprises-JS/blob/master/images/accueil.png)
 
 This application uses "Leaflet" and "Mapbox" APIs to display and interact with a map. 
 Here a succession of zoom and markers allow you to retrieve lists of companies attached to each of the 250 agencies. 
